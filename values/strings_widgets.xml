@@ -198,7 +198,7 @@
 
     <string name="webhook_toast_url_malformed">Wrong format of url. Should starts with http:// or https://</string>
     <string name="webhook_toast_body_malformed">Body json malformed</string>
-    <string name="webhook_hint_url">Use /pin/ or %s to insert pin data</string>
+    <string name="webhook_hint_url">Use /pin/ to insert pin data</string>
     <string name="webhook_hint_body">Use /pin/ to insert pin data</string>
 
     <!--GPS WIDGETS SETTINGS-->
