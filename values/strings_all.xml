@@ -483,7 +483,7 @@ Please remove them before deleting the device.</string>
     <string name="alert_device_already_setuped">This device was added already.</string>
     <string name="alert_export_illegal_email">This code is for another user</string>
 
-    <string name="action_add_another_device">Add another device</string>
+    <string name="action_add_another_device">Add New Device</string>
     <string name="action_add_new_device">Add new device</string>
     <string name="action_open_camera">Open camera</string>
 
