@@ -46,7 +46,7 @@
 
     <string name="prompt_choose_network">Choose WiFi network\n your device will use</string>
     <string name="prompt_choose_device">Power on your device and make sure that indicator is %s</string>
-    <string name="device_indicator_decription">breathing green</string>
+    <string name="device_indicator_decription">blinking blue</string>
 
     <string name="hint_choose_wifi">Choose WiFi network</string>
     <string name="hint_password">password</string>
